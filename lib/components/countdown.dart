@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:newton_test/components/countdownCustom.dart';
-import 'package:slide_countdown/slide_countdown.dart';
-import 'package:stream_duration/stream_duration.dart';
+
 class CountDown extends StatefulWidget {
   final DateTime countDownTo;
   final TextStyle textStyle1;
